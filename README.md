@@ -1,7 +1,7 @@
 # Blockchain Community University
 Blockchain curriculum resourses
 
-#Part 1: Blockchain Overview
+Part 1: Blockchain Overview
 
   Problems
 
@@ -19,7 +19,7 @@ Blockchain curriculum resourses
 
   Ethereum and beyond
 
-#Part 2: Developer Environment Setup and 
+Part 2: Developer Environment Setup and 
 
   Getting Started
 
@@ -52,7 +52,7 @@ Blockchain curriculum resourses
   Contract Interaction
 
 
-#Part 3: Solidity In-Depth
+Part 3: Solidity In-Depth
 
   Data Types and Associated Methods
 
@@ -96,7 +96,7 @@ Blockchain curriculum resourses
 
   Selfdestruct
 
-#Part 4: Advanced Dapp Development
+Part 4: Advanced Dapp Development
 
   Testrpc window, npm install/start window, truffle migrate, EthereumSetup.js
 
@@ -132,7 +132,7 @@ Blockchain curriculum resourses
 
   Live deployment to test networks 
 
-#Part 5: Security and Attacks Vectors
+Part 5: Security and Attacks Vectors
 
   Philosophy and Fundamentals
   
@@ -152,7 +152,7 @@ Blockchain curriculum resourses
   
   Long range attack
 
-#Part 6: Future of crypto
+Part 6: Future of crypto
 
   Philosophy
   
@@ -166,7 +166,7 @@ Blockchain curriculum resourses
   
   Quantum apocalypse and solutions
 
-#Part 7: Asset Tokenization
+Part 7: Asset Tokenization
 
   Crypto third party management (custodial)
   
