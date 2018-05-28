@@ -1,7 +1,7 @@
 # Blockchain Community University
 Blockchain curriculum resourses
 
-##Part 1: Blockchain Overview
+**Part 1: Blockchain Overview**
 
   Problems
 
@@ -19,7 +19,7 @@ Blockchain curriculum resourses
 
   Ethereum and beyond
 
-##Part 2: Developer Environment Setup and 
+**Part 2: Developer Environment Setup and 
 
   Getting Started
 
