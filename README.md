@@ -147,20 +147,33 @@ Part 5: Security and Attacks Vectors
 Part 6: Future of crypto
 
   Philosophy
+  
   Research
+  
   Integration 
+  
   Law / Taxes / Government
+  
   Roadblocks
+  
   Quantum apocalypse and solutions
 
 Part 7: Asset Tokenization
 
   Crypto third party management (custodial)
+  
   Identity / Ownership / Reputation 
+  
   Asset transfers
+  
   Digital asset tokenization (games)
+  
   Commercial / Residential Real Estate deeds
+  
   Commodity / Resource tokenization
+  
   Insurance contract tokenization
+  
   Legal / regulatory considerations
+  
   Blockchain types and governance models
