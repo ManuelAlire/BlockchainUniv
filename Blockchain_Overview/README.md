@@ -1,5 +1,5 @@
 Economic and Technology Problems / Solutions
-Centralisation vs decentralization
+Centralisation vs decentralization 
 Byzantine Generals
 Byzantine Fault Tolerance
 Blockchain solutions
