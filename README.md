@@ -135,13 +135,21 @@ Part 4: Advanced Dapp Development
 Part 5: Security and Attacks Vectors
 
   Philosophy and Fundamentals
+  
   Basic Security
+  
   Solidity defaults
+  
   .send() vs .transfer vs .call().value()
+  
   “Smart” smart contract standards 
+  
   Attack Vectors
+  
   Data races
+  
   Integer overflow
+  
   Long range attack
 
 Part 6: Future of crypto
